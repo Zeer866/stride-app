@@ -1,9 +1,17 @@
 pluginManagement {
-    repositories { google(); mavenCentral(); gradlePluginPortal() }
+    repositories {
+        google()
+        maven { url 'https://maven-central.storage-download.googleapis.com/maven2/' }
+        mavenCentral()
+    }
 }
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories { google(); mavenCentral() }
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        maven { url 'https://maven-central.storage-download.googleapis.com/maven2/' }
+        mavenCentral()
+    }
 }
 rootProject.name = "Stride"
 include ':app'

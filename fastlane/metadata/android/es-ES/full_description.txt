@@ -1,0 +1,8 @@
+Stride es un navegador web ligero, de código abierto y pensado para el celular.
+
+• Usa el motor de tu sistema (Chromium) para abrir cualquier sitio.
+• Google como buscador principal; puedes cambiarlo por Bing, DuckDuckGo, Brave o Ecosia.
+• Bloqueador de anuncios y rastreadores integrado.
+• Fuerza HTTPS y limpia los rastreadores de los enlaces.
+• Sitio de escritorio, descargas, compartir enlaces y borrado de datos.
+• Sin anuncios, sin cuentas y sin recopilar datos.

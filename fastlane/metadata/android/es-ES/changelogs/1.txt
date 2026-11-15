@@ -1,0 +1,1 @@
+Primera versión: navegación con Google, bloqueador de anuncios, HTTPS forzado y modo de escritorio.
